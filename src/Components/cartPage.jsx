@@ -119,7 +119,7 @@ export default function CartPage() {
                   <p>
                     <strong>Expected shipping delivery</strong>
                   </p>
-                  <p className="mb-0">12.10.2020 - 14.10.2020</p>
+                  <p className="mb-0">25.08.2024 - 29.08.2024</p>
                 </div>
               </div>
               <div className="card mb-4 mb-lg-0">
@@ -144,12 +144,6 @@ export default function CartPage() {
                     width="45px"
                     src="https://mdbcdn.b-cdn.net/wp-content/plugins/woocommerce-gateway-stripe/assets/images/mastercard.svg"
                     alt="Mastercard"
-                  />
-                  <img
-                    className="me-2"
-                    width="45px"
-                    src="https://mdbcdn.b-cdn.net/wp-content/plugins/woocommerce/includes/gateways/paypal/assets/images/paypal.webp"
-                    alt="PayPal acceptance mark"
                   />
                 </div>
               </div>
